@@ -1,0 +1,9 @@
+{
+  "name": "mmm-cryptomulti",
+  "version": "1.0.0",
+  "description": "MagicMirror module combining multiple data sources (CoinGecko + XPMarket) in a single table.",
+  "main": "MMM-CryptoMulti.js",
+  "author": "Community",
+  "license": "MIT",
+  "dependencies": {}
+}
