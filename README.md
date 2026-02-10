@@ -1,4 +1,4 @@
-# MMM-CryptoMulti
+# MMM-CryptoWatcher
 
 A MagicMirror² module that displays multiple cryptocurrencies in a single table while allowing per-coin data sources.
 
@@ -10,14 +10,14 @@ Supported data sources:
 
 ```bash
 cd ~/MagicMirror/modules
-git clone https://github.com/<YOUR_GITHUB_USER>/MMM-CryptoMulti.git
+git clone https://github.com/grvs1404/MMM-CryptoWatcher.git
 ```
 
 ## Example config
 
 ```js
 {
-  module: "MMM-CryptoMulti",
+  module: "MMM-CryptoWatcher",
   position: "bottom_left",
   config: {
     vsCurrency: "usd",
